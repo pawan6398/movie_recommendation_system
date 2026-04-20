@@ -1,0 +1,5 @@
+*.pkl
+similarity.pkl
+.ipynb_checkpoints/
+.idea/
+__pycache__/
